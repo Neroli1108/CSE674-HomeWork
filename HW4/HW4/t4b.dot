@@ -1,0 +1,7 @@
+graph G {
+r -- v[label="",weight=""];
+t -- w[label="",weight=""];
+u -- y[label="",weight=""];
+w -- z[label="",weight=""];
+y -- z[label="",weight=""];
+}

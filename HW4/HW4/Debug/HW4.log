@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\yunding\desktop\cse 674\hw4\hw4\main.cpp(104): warning C4018: '<': signed/unsigned mismatch
+c:\users\yunding\desktop\cse 674\hw4\hw4\main.cpp(123): warning C4018: '<': signed/unsigned mismatch
+c:\users\yunding\desktop\cse 674\hw4\hw4\main.cpp(141): warning C4018: '<': signed/unsigned mismatch
+c:\users\yunding\desktop\cse 674\hw4\hw4\main.cpp(145): warning C4018: '<': signed/unsigned mismatch
+c:\users\yunding\desktop\cse 674\hw4\hw4\main.cpp(165): warning C4018: '<': signed/unsigned mismatch
+c:\users\yunding\desktop\cse 674\hw4\hw4\main.cpp(169): warning C4018: '<': signed/unsigned mismatch
+  HW4.vcxproj -> C:\Users\Yunding\Desktop\CSE 674\HW4\Debug\HW4.exe
+  HW4.vcxproj -> C:\Users\Yunding\Desktop\CSE 674\HW4\Debug\HW4.pdb (Partial PDB)

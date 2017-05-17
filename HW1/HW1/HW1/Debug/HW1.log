@@ -1,0 +1,9 @@
+﻿  Operation.cpp
+c:\users\yunding\desktop\cse 674\hw1\hw1\operation.cpp(94): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\yunding\desktop\cse 674\hw1\hw1\operation.cpp(155): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\yunding\desktop\cse 674\hw1\hw1\operation.cpp(379): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\yunding\desktop\cse 674\hw1\hw1\operation.cpp(445): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\yunding\desktop\cse 674\hw1\hw1\operation.cpp(540): warning C4018: '<': signed/unsigned mismatch
+c:\users\yunding\desktop\cse 674\hw1\hw1\operation.cpp(567): warning C4018: '<': signed/unsigned mismatch
+  HW1.vcxproj -> C:\Users\Yunding\Desktop\CSE 674\HW1\HW1\Debug\HW1.exe
+  HW1.vcxproj -> C:\Users\Yunding\Desktop\CSE 674\HW1\HW1\Debug\HW1.pdb (Partial PDB)

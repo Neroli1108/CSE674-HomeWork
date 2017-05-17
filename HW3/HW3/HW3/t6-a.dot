@@ -1,0 +1,34 @@
+digraph BST {
+    node [fontname="Arial"];
+ "500,0,1" -> "327,173,6";
+ "327,173,6" -> "331,169,8";
+    null17 [shape=point];
+   "331,169,8"-> null17;
+"331,169,8" ->"335,165,7";
+ "335,165,7" -> "375,125,3";
+ "375,125,3" -> "343,157,5";
+    null18 [shape=point];
+   "343,157,5"-> null18;
+    null19 [shape=point];
+   "343,157,5"-> null19;
+    null20 [shape=point];
+   "375,125,3"-> null20;
+"335,165,7" ->"333,167,9";
+    null21 [shape=point];
+   "333,167,9"-> null21;
+    null22 [shape=point];
+   "333,167,9"-> null22;
+"327,173,6" ->"312,188,4";
+ "312,188,4" -> "0,500,0";
+ "0,500,0" -> "250,250,2";
+    null23 [shape=point];
+   "250,250,2"-> null23;
+    null24 [shape=point];
+   "250,250,2"-> null24;
+    null25 [shape=point];
+   "0,500,0"-> null25;
+    null26 [shape=point];
+   "312,188,4"-> null26;
+    null27 [shape=point];
+   "500,0,1"-> null27;
+}

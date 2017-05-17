@@ -1,0 +1,6 @@
+graph G {
+7 -- 2[label="",weight=""];
+9 -- 4[label="",weight=""];
+9 -- 10[label="",weight=""];
+10 -- 5[label="",weight=""];
+}

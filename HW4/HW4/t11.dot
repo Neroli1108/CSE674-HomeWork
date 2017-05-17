@@ -1,0 +1,12 @@
+digraph G {
+x -> z[color=red]
+z -> x
+z -> s[color=red]
+s -> y[color=red]
+s -> t
+y -> z
+y -> x
+y -> t[label="19",weight="19",color=red]
+t -> y
+t -> x
+}

@@ -1,0 +1,9 @@
+graph G {
+s -- z
+s -- y[color=red]
+y -- z
+y -- t[color=red]
+t -- x[label="8",weight="8",color=red]
+x -- z
+x -- y
+}
